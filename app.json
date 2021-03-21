@@ -1,0 +1,12 @@
+{
+  "name": "PrintStrukTransfer",
+  "displayName": "PrintStrukTransfer",
+  "expo": {
+    "name": "PrintStrukTransfer",
+    "slug": "PrintStrukTransfer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
